@@ -1,0 +1,5 @@
+#!/Users/veenu/Projects/LLMOPs_Krish/document_processing_portal/doc_env/bin/python3.10
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()

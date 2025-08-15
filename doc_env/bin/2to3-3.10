@@ -1,0 +1,5 @@
+#!/Users/veenu/Projects/LLMOPs_Krish/document_processing_portal/doc_env/bin/python3.10
+import sys
+from lib2to3.main import main
+
+sys.exit(main("lib2to3.fixes"))
